@@ -8045,11 +8045,6 @@ faded
 fades
 fading
 fads
-fag
-faggot
-faggots
-faggy
-fags
 fail
 failed
 failing
@@ -15869,7 +15864,6 @@ peer
 peering
 peerless
 peers
-pees
 peeved
 peg
 pegged
